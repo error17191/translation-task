@@ -1,0 +1,7 @@
+{
+    "require": {
+        "thingengineer/mysqli-database-class": "dev-master",
+        "vlucas/phpdotenv": "^4.1",
+        "stichoza/google-translate-php": "^4.0"
+    }
+}

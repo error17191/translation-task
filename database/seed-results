@@ -1,0 +1,4 @@
+<?php
+
+require __DIR__ . '/runsql.php';
+run_sql_file('sample-data-results.sql');
