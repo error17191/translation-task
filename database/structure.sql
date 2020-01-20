@@ -31,7 +31,8 @@ SET time_zone = "+00:00";
 CREATE TABLE `translations` (
   `id` int(11) NOT NULL,
   `names` text NOT NULL,
-  `hits` text NOT NULL
+  `hits` text NOT NULL,
+  `translations` text NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
