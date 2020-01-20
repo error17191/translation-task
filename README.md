@@ -1,4 +1,4 @@
-## Asumptions
+## Assumptions
 
 I have made some assumptions about this hypotheical application to make it doable and at the same time matches the required challenges from your side.
 
